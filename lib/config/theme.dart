@@ -1,6 +1,6 @@
 /*
  * Impostor MX - Juego de fiesta libre y gratuito
- * Copyright (C) 2026 Retired64 
+ * Copyright (C) 2026 Retired64
  *
  * Este programa es software libre: puedes redistribuirlo y/o modificarlo
  * bajo los términos de la Licencia Pública General GNU publicada por
@@ -17,6 +17,7 @@
  */
 
 import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
 
 class AppColors {
   static const bgTop = Color(0xFF0F2027);
